@@ -31,11 +31,6 @@ Enclose your solution in ```python and ```.
 
 
 class WSEClarifier(ClarificationAlgorithmBase):
-    DEFAULT_CONFIG: dict[str, Any] = {}
-
-    def __init__(self, config=None):
-        super().__init__({**self.DEFAULT_CONFIG, **(config or {})})
-
     def run(self, env: ClarificationEnvironment, problem: dict[str, Any]) -> str:
         messages = [
             {
