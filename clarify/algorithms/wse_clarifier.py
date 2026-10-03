@@ -8,7 +8,7 @@ Registration placeholder. For now the LLM is asked for a solution directly;
 if it abstains on its own, its response is sent to the user as a clarifying
 question. The final algorithm replaces this before the submission deadline.
 
-Team: WSE HTWK Leipzig
+Team: WiSE
 Team Members: Jonas Kunze
 Main Contact: jonas.kunze@htwk-leipzig.de
 """
