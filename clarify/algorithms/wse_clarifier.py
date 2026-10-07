@@ -9,7 +9,7 @@ if it abstains on its own, its response is sent to the user as a clarifying
 question. The final algorithm replaces this before the submission deadline.
 
 Team: WiSE
-Team Members: Jonas Kunze, Jonas Wagner, Parnian Hajian, Dennis Schiese, Jonas Gwozdz
+Team Members: Jonas Kunze, Jonas Wagner, Jonas Gwozdz, Parnian Hajian, Dennis Schiese, Andreas Both
 Main Contact: jonas.kunze@htwk-leipzig.de
 """
 
